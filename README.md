@@ -1,17 +1,17 @@
 # Card Seller Bot
 ## Functionality Check List
-<input type="checkbox" checked/> Welcome  
-<input type="checkbox" checked/>  Customer Creation  
-<input type="checkbox"/> Creating Wallets for some currencies  
-<input type="checkbox"/> View all customer wallets  
-<input type="checkbox"/> Transfer balance from crypto to internal bot balance  
-<input type="checkbox"/> Uploading card datas  
-<input type="checkbox"/> Card Puchasing  
-<input type="checkbox"/> View all customer cards  
-<input type="checkbox"/> View card balance by PAN  
-<input type="checkbox"/> {ADMIN} reduce card balance  
-<input type="checkbox"/> Card deposit  
-<input type="checkbox"/> Withdraw card balance to internal bot balance  
+- [X] Welcome  
+- [X] Customer Creation  
+- [ ] Creating Wallets for some currencies  
+- [ ] View all customer wallets  
+- [ ] Transfer balance from crypto to internal bot balance  
+- [ ] Uploading card datas  
+- [ ] Card Puchasing  
+- [ ] View all customer cards  
+- [ ] View card balance by PAN  
+- [ ] {ADMIN} reduce card balance  
+- [ ] Card deposit  
+- [ ] Withdraw card balance to internal bot balance  
 
 ## Enviroment variables
 Put **.env** file in root of the directory with following variables 
