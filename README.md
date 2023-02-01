@@ -1,4 +1,4 @@
-# Card Seller Bot
+# Crypto Bot
 ## Functionality Check List
 - [X] Welcome  
 - [X] Customer Creation  
